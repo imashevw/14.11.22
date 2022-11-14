@@ -1,6 +1,9 @@
 * {
     box-sizing: border-box;
-}
+    }
+   body {
+    background-color: purple;
+   }
 
 .btn {
     border: 3px solid black;
